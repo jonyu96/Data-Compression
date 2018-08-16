@@ -16,7 +16,7 @@ A data compression program that uses Huffman coding algorithm to compress and de
 
 * Puff- Decompresses a compressed .huff file.
 
-# Compression Result
+### Compression Result
 
 Text file used - endersgame.txt
 
