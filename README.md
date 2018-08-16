@@ -19,9 +19,12 @@ A data compression program that uses Huffman coding algorithm to compress and de
 # Compression Result
 
 Text file used - endersgame.txt
+
 File size BEFORE compression:
 * [571 KB]
+
 File size AFTER compression:
 * [132 KB]
+
 Total space saving (defined as reduction in size relative to the uncompressed size):
 * [44%]
